@@ -51,9 +51,13 @@ author:
 menu:
   - title:             About
     url:               /about/
+  - title:             Projects
+    url:               /docs/
   - title:             Review
     url:               /example/
   - title:             Algorithm
+    url:               /docs/
+  - title:             Study
     url:               /docs/
 
 # Add links to the footer.
@@ -88,7 +92,7 @@ remote_theme: hydecorp/hydejack@v9
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/blog/sea(1919).jpg
+accent_image:          assets/img/blog/sea(1919).jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
