@@ -57,7 +57,7 @@ menu:
     url:               /review/
   - title:             Study
     url:               /study/
-  - title:             Etc.
+  - title:             Etc
     url:               /etc/
 
 # Add links to the footer.
