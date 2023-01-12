@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-# url:                   https://username.github.io
+url:                   https://noachilles.github.io
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
@@ -29,7 +29,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               Until `break down`
+tagline:               `Until` break down
 
 # A list of keywords for your blog
 keywords:              []
@@ -43,18 +43,18 @@ logo:                  /assets/img/logo.png
 author:
   # Used by `jekyll-feed`:
   name:                noachilles
-  email:               wekland0803@naver.com
+  email:               noachilles33@naver.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
+  - title:             About
+    url:               /about/
   - title:             Review
     url:               /example/
   - title:             Algorithm
     url:               /docs/
-  - title:             About
-    url:               /about/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
