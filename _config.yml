@@ -295,7 +295,7 @@ hydejack:
 
 collections:
   featured_categories:
-    permalink:         /:categories/:year/:month/:day/:title.html
+    permalink:         /:name/
     output:            true
 
   featured_tags:
