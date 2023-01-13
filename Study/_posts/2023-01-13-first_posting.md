@@ -1,10 +1,8 @@
 ---
 title: "[깃허브 블로그] 처음으로 포스팅하는 게시글"
 
-categories:
-  - study
-tags:
-  - [study]
+categories: [study]
+tags: [study]
 
 toc: true
 toc_sticky: true
