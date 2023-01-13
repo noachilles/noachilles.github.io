@@ -3,6 +3,7 @@ layout: post
 title: Introducing Hydejack 9
 image: 
   path: /assets/img/blog/jeremy-bishop@0,5x.jpg
+permalink: review
 categories: [review]
 description: >
   Version 9 is the most complete version of Hydejack yet.

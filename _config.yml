@@ -52,13 +52,13 @@ menu:
   - title:             About
     url:               /about/
   - title:             Projects
-    url:               /_featured_categories/projects/
+    url:               /projects/
   - title:             Review
-    url:               /_featured_categories/review/
+    url:               /review/
   - title:             Study
-    url:               /_featured_categories/study/
+    url:               /study/
   - title:             Etc
-    url:               /_featured_categories/etc/
+    url:               /etc/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
