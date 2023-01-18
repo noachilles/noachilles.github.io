@@ -13,17 +13,10 @@ redirect_from:
 
 <!--author-->
 
-## Hydejack
 
-A boutique Jekyll theme for hackers, nerds, and academics.  
-{:.lead}
+## 안녕하세요   
+Noa's developing blog를 운영중입니다.
 
-1. this list will be replaced by the toc
-{:toc .large-only}
-
-![Screenshot](assets/img/blog/hydejack-9.jpg){:.lead width="1920" height="1080" loading="lazy"}
-
-Hydejack's cover page on a variety of screen sizes.
-{:.figcaption}
-
-**안녕하세요**   Noa's developing blog를 운영중입니다.   Data Scientist를 꿈꾸고 있어요.   많이 부족하지만 잘 부탁드립니다.
+   Data Scientist를 꿈꾸고 있어요.
+   
+   많이 부족하지만 잘 부탁드립니다.
