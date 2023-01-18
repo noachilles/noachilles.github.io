@@ -8,11 +8,9 @@ description: >
   각종 프로젝트
 ---
 <ul>
-    {% for category in site.categories.project %}
-        {% if category.last %}
-            <li><a href="{{ post.url }}">{{post.title}}</a></li>
-        {% else %}
-            <h3>There is no content😅</h3>
-        {% endif %}
+    {% for post in site.posts %}
+        <li>
+            <h2>{{ post.categories }}</a></h2>
+        </li>
     {% endfor %}
 </ul>
