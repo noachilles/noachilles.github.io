@@ -12,6 +12,8 @@ description: >
     {% for post in site.categories.project %}
         {% if post.url %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% else %}
+            there is no contents.
         {% endif %}
     {% endfor %}
 </ul>
