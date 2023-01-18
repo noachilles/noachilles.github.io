@@ -8,4 +8,5 @@ description: >
   각종 프로젝트
 ---
 This is categories
-{{ site.categories }}
+{% for category in site.categories %}
+  <li>{{ category }}</li>
