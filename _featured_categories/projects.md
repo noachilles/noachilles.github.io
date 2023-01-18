@@ -3,8 +3,7 @@
 layout: list
 title: Projects
 slug: projects
-menu: true
-order: 2
+no_groups: true
 description: >
   각종 프로젝트
 ---

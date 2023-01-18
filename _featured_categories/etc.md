@@ -3,8 +3,7 @@
 layout: list
 title: Etc
 slug: etc
-menu: true
-order: 5
+no_groups: true
 description: >
   안내
 ---

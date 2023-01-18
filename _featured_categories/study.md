@@ -3,8 +3,7 @@
 layout: list
 title: Study
 slug: study
-menu: true
-order: 4
+no_groups: true
 description: >
   학습 내용 정리
 ---
