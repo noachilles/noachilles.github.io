@@ -7,6 +7,10 @@ no_groups: true
 description: >
   각종 프로젝트
 ---
-This is categories
-{% for category in site.categories %}
-  <li>{{ category }}</li>
+<ul>
+    {% for category in site.categories.project %}
+        {% if category.last %}
+            <li><a href="{{ post.url }}">{{post.title}}</a></li>
+        {% endif %}
+    {% endfor %}
+</ul>
