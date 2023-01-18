@@ -3,7 +3,7 @@
 layout: list
 title: Review
 slug: review
-no_groups: true
+no_groups: false
 description: >
   논문 리뷰
 ---
