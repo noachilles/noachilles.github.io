@@ -8,4 +8,10 @@ description: >
   각종 프로젝트
 ---
 
-{{ content }}
+<ul>
+    {% for post in site.categories.project %}
+        {% if post.url %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+    {% endfor %}
+</ul>
