@@ -1,14 +1,24 @@
 ---
 title: "[깃허브 블로그] 처음으로 포스팅하는 게시글"
 
+<<<<<<< HEAD
 categories:
   - study
 tags:
   - [study]
+=======
+categories: [study]
+tags: [study]
+>>>>>>> bdbc29536d7f44ee81df71470a772e1e1e5fa952
 
 toc: true
 toc_sticky: true
 
+<<<<<<< HEAD
+=======
+grouped: true
+
+>>>>>>> bdbc29536d7f44ee81df71470a772e1e1e5fa952
 date: 2023-01-13
 last_modified_at: 2023-01-13
 ---

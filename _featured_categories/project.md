@@ -1,9 +1,10 @@
 ---
 # Featured tags need to have either the `list` or `grid` layout (PRO only).
 layout: list
-title: Study
-slug: study
+type: category
+title: Project
+slug: project
 no_groups: false
 description: >
-  학습 내용 정리
+  각종 프로젝트
 ---
