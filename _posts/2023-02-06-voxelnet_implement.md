@@ -1,5 +1,5 @@
 ---
-title: "[공부] VoxelNet Implementation"
+title: "[공부] VoxelNet Implementation 실패기"
 
 categories:
   - study
@@ -12,7 +12,7 @@ toc_sticky: true
 date: 2023-02-06
 last_modified_at: 2023-02-06
 
-published: false
+published: true
 ---
 
 ** 실제로 실험에 사용할지는 모르겠고, 그냥 어떻게 진행이 되는지 알아보기 위해서 VoxelNet을 구현한 코드로 돌려보기로 하는데, 진행이 매끄럽게 되지 않는다. **
