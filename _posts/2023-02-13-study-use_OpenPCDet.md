@@ -1,5 +1,5 @@
 ---
-title: "[공부] VoxelNet Implementation 실패기"
+title: "[공부] OpenPCDet 설치 및 실행기-(1)"
 
 categories:
   - study
