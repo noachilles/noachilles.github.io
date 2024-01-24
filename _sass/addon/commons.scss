@@ -32,6 +32,7 @@ body {
     env(safe-area-inset-bottom) env(safe-area-inset-left);
   color: var(--text-color);
   -webkit-font-smoothing: antialiased;
+  font-weight: 400;
   font-family: $font-family-base;
 }
 
