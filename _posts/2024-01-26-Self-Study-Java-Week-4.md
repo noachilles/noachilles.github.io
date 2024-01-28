@@ -4,8 +4,7 @@ author: noa
 date: 2024-01-26 17:25:00 +0900
 categories: [Study, JAVA]
 tags: [JAVA, 혼공단]
-header:
-	teaser: /assets/img/posts/2024-01-26-Self-Study-Java-Week-4/thumb.png
+teaser: /assets/img/posts/2024-01-26-Self-Study-Java-Week-4/thumb.png
 ---
 
 ## 상속
