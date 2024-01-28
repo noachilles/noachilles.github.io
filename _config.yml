@@ -14,7 +14,11 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 계속하는 공부 일지 # the main title
+title: >-
+  계속하는
+
+  공부 일지
+ # the main title
 
 tagline: 계속 공부합니다. # it will display as the sub-title
 

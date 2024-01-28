@@ -744,11 +744,12 @@ $btn-mb: 0.5rem;
   .site-title {
     font-family: inherit;
     font-weight: 900;
-    font-size: 1.75rem;
+    font-size: 1.55rem;
     line-height: 1.2;
     letter-spacing: 0.25px;
     margin-top: 1.25rem;
     margin-bottom: 0.5rem;
+    text-align: center;
 
     a {
       @extend %clickable-transition;
@@ -760,6 +761,7 @@ $btn-mb: 0.5rem;
 
   .site-subtitle {
     font-size: 95%;
+    font-family: inherit;
     color: var(--site-subtitle-color);
     margin-top: 0.25rem;
     word-spacing: 1px;
