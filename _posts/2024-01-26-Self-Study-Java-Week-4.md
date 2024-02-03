@@ -7,7 +7,7 @@ tags: [JAVA, 혼공단]
 thumbnail: /posts/2024-01-26-Self-Study-Java-Week-4/thumb.png
 ---
 
-![Desktop View](/posts/2024-01-26-Self-Study-Java-Week-4/thumb.png)  
+![Desktop View](/posts/2024-01-26-Self-Study-Java-Week-4/thumb.PNG)  
 
 ## 상속
 
