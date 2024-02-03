@@ -1,6 +1,5 @@
 ---
 title: (JAVA) 혼공자바 4주차 - 상속
-author: noa
 date: 2024-01-26 17:25:00 +0900
 categories: [Study, JAVA]
 tags: [JAVA, 혼공단]

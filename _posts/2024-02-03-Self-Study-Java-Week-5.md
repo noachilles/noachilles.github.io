@@ -1,6 +1,5 @@
 ---
 title: (JAVA) 혼공자바 5주차 - 인터페이스, 익명 객체
-author: noa
 date: 2024-02-03 15:30:00 +0900
 categories: [Study, JAVA]
 tags: [JAVA, 혼공단]
