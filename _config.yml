@@ -74,7 +74,7 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: "https://cdn.jsdelivr.net/gh/noachilles/noachilles.github.io@ff229b3cfcc8000be629be9edd97c1428c17d5c4/assets/img"
+img_cdn: "https://cdn.jsdelivr.net/gh/noachilles/noachilles.github.io@main/assets/img"
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "/profile.jpg"
