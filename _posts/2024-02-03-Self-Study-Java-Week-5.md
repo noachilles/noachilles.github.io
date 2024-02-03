@@ -7,8 +7,6 @@ tags: [JAVA, 혼공단]
 image: /posts/2024-02-03-Self-Study-Java-Week-5/thumbnail.PNG
 ---
 
-![Desktop View](/posts/2024-02-03-Self-Study-Java-Week-5/thumbnail.PNG)  
-
 ## 인터페이스(Interface)
 * 참조중인 객체로부터 소스코드에서 호출한 메소드를 실행/반환해주는 역할을 수행하는 타입(소스코드에서 필요한 객체와 호환된다.)  
 
