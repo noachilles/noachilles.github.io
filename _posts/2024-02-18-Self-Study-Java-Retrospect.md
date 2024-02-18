@@ -4,7 +4,6 @@ date: 2024-02-18 17:30:00 +0900
 categories: [Study, Retrospect]
 tags: [JAVA, 혼공단]
 image: /posts/2024-02-18-Self-Study-Java-Retrospect/thumbnail.png
-published: false
 ---
 
 ## 신청한 계기  
