@@ -167,7 +167,7 @@ try{
 
 * 객체를 식별하는 하나의 정수값  
 
-* ```hashCode()```가 하는 역할: 고유한 객체를 구분할 수 있는 정수 반환  
+* ```hashCode()```가 하는 역할: 객체를 식별할 수 있는 정수 반환  
 
 * ```hashCode()``` 메소드 자체가 비교를 수행하는 메소드는 아님. 다만 ```hashCode()``` 반환값을 사용하는 ```HashSet, HashMap, Hashtable```에서 두 객체가 <span style="color: #f08080">논리적으로 동등</span>
 한지 비교할 수 있음  
@@ -211,19 +211,19 @@ public class Member {
 
 **🌠Java API Document로 String 클래스의 hashCode() 메소드 재정의 확인하기**
 
-![Desktop View](/posts/2024-02-18-Self-Study-Java-Week-6/fig1.jpg)  
+![Desktop View](/posts/2024-02-18-Self-Study-Java-Week-6/fig1.png)  
 [JAVA API Document](https://docs.oracle.com/en/java/javase/index.html)에 접속 한 후의 화면이다. 환경 변수를 통해 컴퓨터에 설치된 JDK 버전을 확인하고 화면에서 동일한 버전을 선택하면 된다.  
 
-![Desktop View](/posts/2024-02-18-Self-Study-Java-Week-6/fig2.jpg)  
+![Desktop View](/posts/2024-02-18-Self-Study-Java-Week-6/fig2.png)  
 화면 상단 검색창에 ```java.lang``` 패키지를 검색한다.  
 
-![Desktop View](/posts/2024-02-18-Self-Study-Java-Week-6/fig3.jpg)  
+![Desktop View](/posts/2024-02-18-Self-Study-Java-Week-6/fig3.png)  
 사진 속 링크로 접속한다.  
 
-![Desktop View](/posts/2024-02-18-Self-Study-Java-Week-6/fig4.jpg)  
+![Desktop View](/posts/2024-02-18-Self-Study-Java-Week-6/fig4.png)  
 우측 상단 검색창에 ```String```을 검색한다.  
 
-![Desktop View](/posts/2024-02-18-Self-Study-Java-Week-6/fig5.jpg)  
+![Desktop View](/posts/2024-02-18-Self-Study-Java-Week-6/fig5.png)  
 ```hashCode()``` 메소드 내용을 찾는다.  
 
 String 클래스의 hashCode() 메소드 내용을 읽어보면, 각각의 문자열 객체에 속한 각 문자에 대한 연산으로 정수 값을 반환하는 사실을 알 수 있다.   
