@@ -391,7 +391,7 @@ anony.method2(
 ```  
 위와 같이 매개변수에 직접 대입할 수도 있다. (매개변수 타입은 부모클래스)  
 
-**✔️확인 문제**
+**✔️확인 문제**  
 1.AnonymousExample 클래스 실행결과로 Worker 클래스 익명 자식 객체 이용해 필드, 로컬 변수의 초기값과 메소드 매개값을 대입해보세요. 
 
 <span style="color:#f08080">
@@ -399,7 +399,6 @@ anony.method2(
 </span>
 
 ```java
-package sec02.test1;
 package sec02.test1;
 
 public class Worker {
