@@ -34,7 +34,9 @@ R에서 시계열 데이터를 생성하는 툴은 ① stats 패키지의 ts cla
 
 우선 예시 데이터를 불러와야 하는데, 이는 다음 [링크](https://jse.amstat.org/jse_data_archive.htm)를 클릭해 접속한 뒤 사진의 데이터를 검색해 <span style="color:#0088ff">utility.dat.txt</span>를 사용합니다. <span style="color:#0088ff">utility.txt</span>는 데이터의 정보를 담고 있습니다.
 
-<div align="center"><img src="https://github.com/user-attachments/assets/eda403eb-8f96-4c76-84c5-b9dbbd345848" width=90%/></div>  
+<div align="center">  
+<img src="https://github.com/user-attachments/assets/eda403eb-8f96-4c76-84c5-b9dbbd345848" width=90%/>  
+</div>  
 <div align="center">fig 1. JSE data</div>  
   
   
