@@ -77,7 +77,7 @@ plot(utility.ts, col="salmon", lwd=2,
      main="Electricity Usage Trend of Boston Area")
 ```
 
-<div align="center"><img src="https://github.com/user-attachments/assets/02ba1c5e-3bba-40d4-abfd-2ce3f9391ee0" width=90%/></div>  
+<img src="https://github.com/user-attachments/assets/02ba1c5e-3bba-40d4-abfd-2ce3f9391ee0" width=90%/>  
 <div align="center">fig 2. plot example(Year-Electricity Usage)</div>
 
 이외에 ts class 내 함수들은 다음과 같이 사용할 수 있습니다.
