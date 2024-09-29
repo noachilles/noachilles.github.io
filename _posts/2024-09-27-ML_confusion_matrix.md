@@ -1,7 +1,7 @@
 ---
 title: (ML)Confusion Matrix 이해하기
 date: 2024-09-27 23:30:00 +0900
-categories: [ML, Eval]
+categories: [Data, Science]
 tags:
   [dtudy, data analysis, data science, ML, Confusion Matrix, Evaluation, DL, AI]
 use_math: true
@@ -95,11 +95,11 @@ Actual은 실제값, Predict는 예측 결과값을 나타냅니다.
 
 Accuracy(정확도)는 모델의 수행능력을 평가할 때 사용됩니다. 모든 인자 중 정답 인자의 비율을 나타냅니다.
 
-$
+$$
 \begin{aligned}
 Accuracy =\frac{TP+TN}{TP+TN+FP+FN}
 \end{aligned}
-$
+$$
 
 ### Precision
 
