@@ -2,7 +2,9 @@
 title: (ML)Confusion Matrix 이해하기
 date: 2024-09-27 23:30:00 +0900
 categories: [ML, Eval]
-tags: [ML, Confusion Matrix, Evaluation, DL, AI]
+tags:
+  [dtudy, data analysis, data science, ML, Confusion Matrix, Evaluation, DL, AI]
+use_math: true
 ---
 
 ## Confusion Matrix란,
@@ -115,5 +117,5 @@ F1-score는 $0 ~ 1$ 사이 값이며 1에 가까울 수록 분류 성능이 뛰�
 
 $$F1-Score = 2\times \frac{Precision\times Recall}{Precision+Recall}$$
 
-Precision과 Recall은 trade-off 관계이기 때문에, Precision이 올라가면 Recall이 낮아지고, Recall이 높아지면 Precision이 낮아집니다. 
-Decision threshold를 통해 trade-off 관계를 조절할 수 있습니다. 
+Precision과 Recall은 trade-off 관계이기 때문에, Precision이 올라가면 Recall이 낮아지고, Recall이 높아지면 Precision이 낮아집니다.
+Decision threshold를 통해 trade-off 관계를 조절할 수 있습니다.

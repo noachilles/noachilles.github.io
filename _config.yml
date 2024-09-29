@@ -18,8 +18,7 @@ title: >-
   계속하는
 
   공부 일지
- # the main title
-
+# the main title
 tagline: 계속 공부합니다. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
@@ -200,3 +199,10 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# Convesion: 수식 사용 위해 추가
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
