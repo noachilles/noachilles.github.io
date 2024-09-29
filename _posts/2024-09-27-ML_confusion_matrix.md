@@ -95,19 +95,19 @@ Actual은 실제값, Predict는 예측 결과값을 나타냅니다.
 
 Accuracy(정확도)는 모델의 수행능력을 평가할 때 사용됩니다. 모든 인자 중 정답 인자의 비율을 나타냅니다.
 
-$$Accuracy =\frac{TP+TN}{TP+TN+FP+FN}$$
+$Accuracy =\frac{TP+TN}{TP+TN+FP+FN}$
 
 ### Precision
 
 Precision(정밀도)은 model이 Positive(양성)으로 예측한 값들의 정확도를 나타냅니다. 모델이 Positive로 예측한 모든 값들 중 정답 비율을 나타냅니다.
 
-$$Precision = \frac{TP}{TP+FP}$$
+$Precision = \frac{TP}{TP+FP}$
 
 ### Recall
 
 Recall(재현율)은 모델이 실제 Positive 클래스를 얼마나 잘 잡아내는지 나타내는 지표입니다. 분류 모델의 효과성을 평가하는 데 사용됩니다. 실제값이 positive인 경우 중 모델이 Positive로 판정한 비율을 나타냅니다.
 
-$$Recall = \frac{TP}{TP+FN}$$
+$Recall = \frac{TP}{TP+FN}$
 
 ### F1-Score
 
@@ -115,7 +115,7 @@ F1-Score은 분류 모델의 전반적인 수행능력을 평가하기 위해 �
 
 F1-score는 $0 ~ 1$ 사이 값이며 1에 가까울 수록 분류 성능이 뛰어납니다.
 
-$$F1-Score = 2\times \frac{Precision\times Recall}{Precision+Recall}$$
+$F1-Score = 2\times \frac{Precision\times Recall}{Precision+Recall}$
 
 Precision과 Recall은 trade-off 관계이기 때문에, Precision이 올라가면 Recall이 낮아지고, Recall이 높아지면 Precision이 낮아집니다.
 Decision threshold를 통해 trade-off 관계를 조절할 수 있습니다.
