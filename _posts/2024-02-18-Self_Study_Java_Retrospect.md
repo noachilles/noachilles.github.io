@@ -1,7 +1,7 @@
 ---
 title: (혼공학습단) 혼공자바 11기 회고
 date: 2024-02-18 17:30:00 +0900
-categories: [Study, Retrospect]
+categories: [Review, JAVA]
 tags: [JAVA, 혼공단]
 image: /posts/2024-02-18-Self-Study-Java-Retrospect/thumbnail.png
 ---

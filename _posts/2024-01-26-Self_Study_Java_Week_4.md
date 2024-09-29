@@ -1,7 +1,7 @@
 ---
 title: (JAVA) 혼공자바 4주차 - 상속
 date: 2024-01-26 17:25:00 +0900
-categories: [Study, JAVA]
+categories: [Revies, JAVA]
 tags: [JAVA, 혼공단]
 image: /posts/2024-01-26-Self-Study-Java-Week-4/thumb.PNG
 ---

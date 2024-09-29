@@ -1,7 +1,7 @@
 ---
 title: (JAVA) 혼공자바 5주차 - 인터페이스, 익명 객체
 date: 2024-02-03 15:30:00 +0900
-categories: [Study, JAVA]
+categories: [Review, JAVA]
 tags: [JAVA, 혼공단]
 image: /posts/2024-02-03-Self-Study-Java-Week-5/thumbnail.PNG
 ---
