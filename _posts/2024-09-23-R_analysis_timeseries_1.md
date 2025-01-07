@@ -3,7 +3,6 @@ title: (R) 시계열 분석 (1) - 시계열 데이터 객체 생성
 date: 2024-09-23 23:30:00 +0900
 categories: [Data, Analysis]
 tags: [Data, DataAnalisys, 데이터분석, R, 시계열분석]
-image: /posts/2024-09-23-R-analysis-timeseries-1/thumbnail.png
 ---
 
 \*이 글은 Youtube 곽영기 교수님의 R을 활용한 시계열 분석 (1) 영상을 참고해 쓰였습니다.
